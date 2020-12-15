@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kyF26maZIvB+ru7eFOPBjxE3LTMjKUEifmG5F3ql4CPT5Dcvf+I8P2NbC/PMVlxnrIu0y09hqVbRWVwO6A8+nA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rgame\\source\\repos\\ApiMicromania\\ApiMicromania\\ApiMicromania.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rgame\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
