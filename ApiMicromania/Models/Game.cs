@@ -13,5 +13,6 @@ namespace ApiMicromania.Controllers.Models
        public string Genre { get; set; }
 
        public string Plateform { get; set; }
+       public string Prix { get; set; }
     }
 }

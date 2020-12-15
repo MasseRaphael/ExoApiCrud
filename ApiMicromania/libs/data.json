@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "name": "Cyberpunk 2077",
+    "genre": "RPG",
+    "platforme": "PC",
+    "prix": "69.99"
+},
+{
+    "id": 2,
+    "name": "Assassin's Creed : Valhalla",
+    "genre": "RPG",
+    "platforme": "PC",
+    "prix": "69.99"
+},
